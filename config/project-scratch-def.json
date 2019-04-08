@@ -1,7 +1,7 @@
 {
   "orgName": "Demo Company",
   "edition": "Developer",
- "features": ["IoT","Interaction","LightningSalesConsole","LightningServiceConsole"],
+  "features": [],
   "settings": {
     "orgPreferenceSettings": {
       "s1DesktopEnabled": true
