@@ -1,0 +1,210 @@
+[
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104605,
+            "changeTime": 1554965104605,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104607,
+            "changeTime": 1554965104607,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104625,
+            "changeTime": 1554965104625,
+            "contentHash": "8640c31a1e403a347ad4c53fdc84f56156a9bca7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104616,
+            "changeTime": 1554965104616,
+            "contentHash": "67f49a6438a8b80cd56115a2c70eb85565866c4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "isDirectory": false,
+            "size": 27,
+            "modifiedTime": 1554965104611,
+            "changeTime": 1554965104611,
+            "contentHash": "b3382589a194eb33041b14b270440e7404b510bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1554965104613,
+            "changeTime": 1554965104613,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls",
+            "isDirectory": false,
+            "size": 28,
+            "modifiedTime": 1554965104615,
+            "changeTime": 1554965104615,
+            "contentHash": "4f36cfe4c3e458852aa73f6f3be60878866e4b17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1554965104617,
+            "changeTime": 1554965104617,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\labels",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104620,
+            "changeTime": 1554965104620,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 910,
+            "modifiedTime": 1554967052617,
+            "changeTime": 1554967052617,
+            "contentHash": "c80a67ae1d9c8dfaf0e0e3b85853a49577aa8f99"
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104623,
+            "changeTime": 1554965104623,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104626,
+            "changeTime": 1554965104626,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19457,
+            "modifiedTime": 1554965104628,
+            "changeTime": 1554965104628,
+            "contentHash": "8f53286474dd0bc6d64c56ff9bf82a4825b7771b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster",
+        {
+            "sourcePath": "c:\\Users\\soujana\\Desktop\\GitDemo11April\\DemoMaster",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554965104629,
+            "changeTime": 1554965104629,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
