@@ -12,7 +12,8 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>SFDXDEMOLABEL11April</shortDescription>
-        <value>This is a test label created for demo</value>
+        <value>This is a test label created for demo
+Updated on 16</value>
     </labels>
     <labels>
         <fullName>SFDXDEMOLABEL2</fullName>

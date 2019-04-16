@@ -1,0 +1,234 @@
+[
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555409152978,
+            "changeTime": 1555409152978,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555409152979,
+            "changeTime": 1555409152979,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555409348800,
+            "changeTime": 1555409348800,
+            "contentHash": "a5996d4716ea9f43b8c6c8c911050a078a354e6b"
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555409152985,
+            "changeTime": 1555409152985,
+            "contentHash": "67f49a6438a8b80cd56115a2c70eb85565866c4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "isDirectory": false,
+            "size": 27,
+            "modifiedTime": 1555409152981,
+            "changeTime": 1555409152981,
+            "contentHash": "b3382589a194eb33041b14b270440e7404b510bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1555409152982,
+            "changeTime": 1555409152982,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls",
+            "isDirectory": false,
+            "size": 28,
+            "modifiedTime": 1555409152984,
+            "changeTime": 1555409152984,
+            "contentHash": "4f36cfe4c3e458852aa73f6f3be60878866e4b17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\classes\\HelloWorld2.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1555409152985,
+            "changeTime": 1555409152985,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\labels",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555409152987,
+            "changeTime": 1555409152987,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 925,
+            "modifiedTime": 1555409348796,
+            "changeTime": 1555409348796,
+            "contentHash": "61673897b333c8413ca45bee50ac4439ce2646ab"
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555409152990,
+            "changeTime": 1555409152990,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555409152991,
+            "changeTime": 1555409152991,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19457,
+            "modifiedTime": 1555409152992,
+            "changeTime": 1555409152992,
+            "contentHash": "8f53286474dd0bc6d64c56ff9bf82a4825b7771b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster",
+        {
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555409152992,
+            "changeTime": 1555409152992,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6382,
+            "modifiedTime": 1555409348805,
+            "changeTime": 1555409348805,
+            "contentHash": "c42418b75d11dc43926e486fa4e1dc8161da8740"
+        }
+    ],
+    [
+        "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\soujana\\Desktop\\SFDXREPO\\DemoMaster\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555409348802,
+            "changeTime": 1555409348802,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ]
+]
